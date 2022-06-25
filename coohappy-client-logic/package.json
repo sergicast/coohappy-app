@@ -20,7 +20,7 @@
     "dotenv": "^8.2.0",
     "mocha": "^8.0.1",
     "moment": "^2.26.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "not-async-storage": "^1.0.1",
     "nyc": "^15.1.0"
   },
