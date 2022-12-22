@@ -26,6 +26,6 @@
   },
   "devDependencies": {
     "atob": "^2.1.2",
-    "jsonwebtoken": "^8.5.1"
+    "jsonwebtoken": "^9.0.0"
   }
 }
