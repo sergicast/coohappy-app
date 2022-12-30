@@ -18,7 +18,7 @@
     "coohappy-commons": "file:../coohappy-commons",
     "coohappy-data": "file:../coohappy-data",
     "dotenv": "^8.2.0",
-    "mocha": "^8.0.1",
+    "mocha": "^8.4.0",
     "moment": "^2.26.0",
     "node-fetch": "^2.6.0",
     "not-async-storage": "^1.0.1",
